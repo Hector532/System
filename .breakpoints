@@ -1,0 +1,42 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "1226b132-4e50-443c-b578-90f0c7dd3e64",
+        "line": 1,
+        "version": 279,
+        "index": 0
+      },
+      {
+        "id": "23156398-1ca7-4229-8768-3824f1791177",
+        "line": 1,
+        "version": 279,
+        "index": 0
+      },
+      {
+        "id": "1352e384-1471-472c-90ee-735b40b7e770",
+        "line": 1,
+        "version": 279,
+        "index": 0
+      },
+      {
+        "id": "edbbf9cf-0d56-4a66-b712-68fcaf8920d8",
+        "line": 1,
+        "version": 279,
+        "index": 0
+      },
+      {
+        "id": "12117432-8f0f-4257-b20c-d1e8d2bb884c",
+        "line": 1,
+        "version": 279,
+        "index": 0
+      },
+      {
+        "id": "0ba67e84-0515-4050-94a9-59e046a4ad42",
+        "line": 1,
+        "version": 279,
+        "index": 0
+      }
+    ]
+  }
+}
